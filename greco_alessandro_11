@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greco Alessandro</title>
+   <body> 
+   <h1 style="color:blue;">Inter</h1>
+   <h2 style="background-color:white;">Stagione 2023/2024</h2>
+  
+ </body> 
+           
+
+ <p>L'Inter è una squadra di serie a nonchè attualmente vicecampione di europa.L'allenatore è Simone inzaghi che ha vinto due Supercoppe italiane (2021 e 2022), due Coppe Italia (2021-2022, 2022-2023) e ha raggiunto una finale di Champions League (2022-2023).l'inter attualmente è prima in classifica di serie a con ben 31 punti in 13 giornate, ed è in piena lotta per la conquista dello scudetto.</p>
+   </head>
+ <img src="interf.jpeg" alt="Foto dell'Inter" width="700" height="500">
+ 
+ 
+ <img src="internapoli.png"alt="Foto dell'Inter ieri vincitrice per 3-0 a napoli" width="700" height="500">
+ <p> Per sapere altri dettagli su i due calciatori dell'inter cliccasui nomi dei giocatori qua sotto qua sotto:</p>
+ <a href="LauatroMartinez.html" Dettagli calciatori="Dettagli('Lautaro Martinez', 'Attaccante', '10')">Lautaro Martinez- Attaccante - Maglia 10</a>
+ 
+ <a href="NicoloBarella.html" Dettagli calciatori="Dettagli('Nicolò Barella', 'Centrocampista', '23')">Nicolò Barella - Centrocampista - Maglia 23</a>
+
+
+  <h3>Marcatori &#9917 </h3>
+<p>L'Inter dall'inizio della stagione ha segnato in totale 29 goal di cui quasi la metà li ha segnati lauatro Martinez</p>
+
+
+<table border="1">
+  <tr>
+    <th><ol>
+     <li>posizione 1</li>
+     <li>posizione 2</li>
+     <li>posizione 3</li>
+   </ol></th>
+    <th><ul>
+     <li>nome</li>
+     <li>nomignolo</li>
+     <li>nomone</li>
+  </ul></th>
+    <th>Cognome</th>
+    <th>Numero di reti</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Lautaro</td>
+    <td>Martinez</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Hakan</td>
+    <td> Çalhanoğlu</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Marcus</td>
+    <td>Thuram</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Federico</td>
+    <td>Dimarco</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Denzel</td>
+    <td>Dumfries</td>
+    <td>2</td>
+  </tr>
+</table>
+
+<h2>Ecco gli highlights della partita di ieri napoli-inter conlusa 0-3 in favore della squdra ospite</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tLaJgIOMVto?si=-OfQEuOalVl5l6b3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>Scrivi qua il nome, cognome e numero di maglia del tuo calciatore preferito dell'inter:</p>
+<form>
+  <label for="fname">Nome:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Cognome:</label><br>
+  <input type="text" id="lname" name="lname">
+  <label for="lname"> Numero di maglia:</label><br>
+  <input type="text" id="lname" name="lname"> 
+  
+  
+  <!--L'inter è più forte della juve-->
+</form>
+ </body> 
+</html>
