@@ -88,7 +88,15 @@
   <input type="text" id="lname" name="lname">
   <label for="lname"> Numero di maglia:</label><br>
   <input type="text" id="lname" name="lname"> 
-  
+
+ <p>Cliccando il pulsante qui sotto cambia il contenuto del testo sotto al bottone.</p>
+<button type="button" onclick="myFunction2()">Clicca per modificare i contenuti!</button>
+<p id="demo">Salveee.</p>
+<script>
+function myFunction2() {
+  document.getElementById("demo").innerHTML = "Mi chiamo pulce!";
+}
+    </script>
   
   <!--L'inter è più forte della juve-->
 </form>
